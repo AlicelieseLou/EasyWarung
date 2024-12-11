@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|c:\\users\\richard antholin\\pictures\\easywarung v2.0\\easywarung v2.0\\easywarung\\easywarung\\view\\iudform\\ordersinsertupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|solutionrelative:easywarung\\view\\iudform\\ordersinsertupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|c:\\users\\richard antholin\\pictures\\easywarung v2.0\\easywarung v2.0\\easywarung\\easywarung\\view\\iudform\\usersinsertupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|solutionrelative:easywarung\\view\\iudform\\usersinsertupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|c:\\users\\richard antholin\\pictures\\easywarung v2.0\\easywarung v2.0\\easywarung\\easywarung\\view\\iudform\\productsinsertupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|solutionrelative:easywarung\\view\\iudform\\productsinsertupdate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|c:\\users\\richard antholin\\pictures\\easywarung v2.0\\easywarung v2.0\\easywarung\\easywarung\\view\\ordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|solutionrelative:easywarung\\view\\ordersform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|c:\\users\\richard antholin\\pictures\\easywarung v2.0\\easywarung v2.0\\easywarung\\easywarung\\database\\dbaccess.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|solutionrelative:easywarung\\database\\dbaccess.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\easywarung\\database\\configrw.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|solutionrelative:easywarung\\database\\configrw.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersInsertUpdate.vb",
+              "DocumentMoniker": "C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\View\\IUDForm\\UsersInsertUpdate.vb",
+              "RelativeDocumentMoniker": "EasyWarung\\View\\IUDForm\\UsersInsertUpdate.vb",
+              "ToolTip": "C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\View\\IUDForm\\UsersInsertUpdate.vb",
+              "RelativeToolTip": "EasyWarung\\View\\IUDForm\\UsersInsertUpdate.vb",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T04:21:34.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsInsertUpdate.vb",
+              "DocumentMoniker": "C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\View\\IUDForm\\ProductsInsertUpdate.vb",
+              "RelativeDocumentMoniker": "EasyWarung\\View\\IUDForm\\ProductsInsertUpdate.vb",
+              "ToolTip": "C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\View\\IUDForm\\ProductsInsertUpdate.vb",
+              "RelativeToolTip": "EasyWarung\\View\\IUDForm\\ProductsInsertUpdate.vb",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwEQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T04:14:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersInsertUpdate.vb",
+              "DocumentMoniker": "C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\View\\IUDForm\\OrdersInsertUpdate.vb",
+              "RelativeDocumentMoniker": "EasyWarung\\View\\IUDForm\\OrdersInsertUpdate.vb",
+              "ToolTip": "C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\View\\IUDForm\\OrdersInsertUpdate.vb",
+              "RelativeToolTip": "EasyWarung\\View\\IUDForm\\OrdersInsertUpdate.vb",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAuwIsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T04:09:40.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersForm.vb",
+              "DocumentMoniker": "C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\View\\OrdersForm.vb",
+              "RelativeDocumentMoniker": "EasyWarung\\View\\OrdersForm.vb",
+              "ToolTip": "C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\View\\OrdersForm.vb",
+              "RelativeToolTip": "EasyWarung\\View\\OrdersForm.vb",
+              "ViewState": "AQIAACoAAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T04:12:49.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBAccess.vb",
+              "DocumentMoniker": "C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\Database\\DBAccess.vb",
+              "RelativeDocumentMoniker": "EasyWarung\\Database\\DBAccess.vb",
+              "ToolTip": "C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\Database\\DBAccess.vb",
+              "RelativeToolTip": "EasyWarung\\Database\\DBAccess.vb",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T03:56:00.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigRW.vb",
+              "DocumentMoniker": "C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\Database\\ConfigRW.vb",
+              "RelativeDocumentMoniker": "EasyWarung\\Database\\ConfigRW.vb",
+              "ToolTip": "C:\\Users\\Richard Antholin\\Pictures\\EasyWarung v2.0\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\Database\\ConfigRW.vb",
+              "RelativeToolTip": "EasyWarung\\Database\\ConfigRW.vb",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-09T03:55:38.58Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

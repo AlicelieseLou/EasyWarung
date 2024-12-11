@@ -1,0 +1,5 @@
+ServerAddress = LAPTOP-ENM1F6MV
+DBInstance = SQLEXPRESS
+DBName = EasyWarung
+UserDB = Richard
+PassDB = 12345

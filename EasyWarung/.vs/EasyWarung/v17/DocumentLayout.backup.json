@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO-PC\\Desktop\\Programming Client Server\\EasyWarung v2.0\\EasyWarung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|c:\\users\\lenovo-pc\\desktop\\programming client server\\easywarung v2.0\\easywarung\\easywarung\\view\\dashboardform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{747458B1-538D-4B8F-806E-1E2D3D0DA73B}|EasyWarung\\EasyWarung.vbproj|solutionrelative:easywarung\\view\\dashboardform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardForm.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO-PC\\Desktop\\Programming Client Server\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\View\\DashboardForm.vb",
+              "RelativeDocumentMoniker": "EasyWarung\\View\\DashboardForm.vb",
+              "ToolTip": "C:\\Users\\LENOVO-PC\\Desktop\\Programming Client Server\\EasyWarung v2.0\\EasyWarung\\EasyWarung\\View\\DashboardForm.vb",
+              "RelativeToolTip": "EasyWarung\\View\\DashboardForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-08T04:52:43.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

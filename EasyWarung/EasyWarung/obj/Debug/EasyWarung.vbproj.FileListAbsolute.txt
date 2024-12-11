@@ -1,0 +1,262 @@
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EasyWarung.exe.config
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EasyWarung.exe
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EasyWarung.pdb
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EasyWarung.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Bunifu.Licensing.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Bunifu.UI.WinForms.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Newtonsoft.Json.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\RestSharp.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Buffers.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.CodeDom.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Memory.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Numerics.Vectors.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Text.Encodings.Web.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Text.Json.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.ValueTuple.dll
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Bunifu.UI.WinForms.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Newtonsoft.Json.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\RestSharp.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Buffers.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.CodeDom.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Memory.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Numerics.Vectors.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Text.Encodings.Web.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Text.Json.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.ValueTuple.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.vbproj.AssemblyReference.cache
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.Dashboard.resources
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.Resources.resources
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.vbproj.GenerateResource.cache
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.vbproj.CoreCompileInputs.cache
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.vbproj.CopyComplete
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.exe
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.xml
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.pdb
+C:\app\Wilson L\Client Server Programming\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.CategoriesForm.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Report\CategoriesReport.rdlc
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Report\OrderReceipt.rdlc
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Report\OrdersReport.rdlc
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Report\ProductsReport.rdlc
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Report\UsersReport.rdlc
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EasyWarung.exe.config
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EasyWarung.exe
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EasyWarung.pdb
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EasyWarung.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Bunifu.Licensing.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\RestSharp.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.CodeDom.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Memory.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Text.Json.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.ValueTuple.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EnvDTE.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\stdole.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\RestSharp.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.CodeDom.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Memory.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Text.Json.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.ValueTuple.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.vbproj.AssemblyReference.cache
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.UserLoginForm.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.MainForm.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.CategoriesForm.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.DashboardForm.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.Resources.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.CategoriesInsertUpdate.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.OrderDetailInsertUpdate.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.OrdersInsertUpdate.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.ProductsInsertUpdate.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.UsersInsertUpdate.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.OrdersForm.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.ProductsForm.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.SettingForm.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.DatabaseConfigurationForm.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.UsersForm.resources
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.vbproj.GenerateResource.cache
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.vbproj.Up2Date
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.exe
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.xml
+C:\Users\LENOVO-PC\Desktop\Programming Client Server\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.pdb
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Report\CategoriesReport.rdlc
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Report\OrderReceipt.rdlc
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Report\OrdersReport.rdlc
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Report\ProductsReport.rdlc
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Report\UsersReport.rdlc
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EasyWarung.exe.config
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EasyWarung.exe
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EasyWarung.pdb
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EasyWarung.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\RestSharp.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Buffers.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.CodeDom.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Memory.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Text.Json.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.ValueTuple.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EnvDTE.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\stdole.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\RestSharp.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Buffers.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.CodeDom.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Memory.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Text.Json.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\System.ValueTuple.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\EnvDTE.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.vbproj.AssemblyReference.cache
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.UserLoginForm.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.MainForm.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.CategoriesForm.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.DashboardForm.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.Resources.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.CategoriesInsertUpdate.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.OrderDetailInsertUpdate.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.OrdersInsertUpdate.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.ProductsInsertUpdate.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.UsersInsertUpdate.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.OrdersForm.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.ProductsForm.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.SettingForm.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.DatabaseConfigurationForm.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.UsersForm.resources
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.vbproj.GenerateResource.cache
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.vbproj.CoreCompileInputs.cache
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.vbproj.Up2Date
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.exe
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.xml
+C:\Users\Richard Antholin\Pictures\EasyWarung v2.0\EasyWarung v2.0\EasyWarung\EasyWarung\obj\Debug\EasyWarung.pdb
